@@ -14,8 +14,3 @@ canvas {
 	position: absolute;
 	margin-left: 1em;
 }
-
-.hit {
-	font-weight: bold;
-	color: red;
-}
