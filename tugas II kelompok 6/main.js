@@ -1,6 +1,6 @@
 // import three.module.js
 import * as THREE from 'https://cdn.skypack.dev/three@0.133.1';
-import {OrbitControls} from './OrbitControls.js';
+import {OrbitControls} from '../JS/OrbitControls.js';
 
 var scene;
 var camera;
